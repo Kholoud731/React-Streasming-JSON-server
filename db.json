@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "First",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "Create Kholoud Stream",
+      "description": "Linking my Id to the stream for further actions",
+      "userId": "113064572913497369205",
+      "id": 2
+    },
+    {
+      "title": "pogrammatic edit 1",
+      "description": "Trying the programmatic navigation",
+      "userId": "113064572913497369205",
+      "id": 3
+    },
+    {
+      "title": "edit",
+      "description": "made my edit",
+      "id": 4
+    },
+    {
+      "title": "hello refactor",
+      "description": "made a create form refactor",
+      "userId": "113064572913497369205",
+      "id": 5
+    }
+  ]
+}
